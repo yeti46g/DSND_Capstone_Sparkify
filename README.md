@@ -1,5 +1,7 @@
 # Predict Customer Churn with Spark
 
+[Medium Blog](https://medium.com/@ying.geng5/a-tutorial-using-spark-for-big-data-an-example-to-predict-customer-churn-9078ac9a1e85)
+
  - Skills : Spark Dataframe, SQL, and ML APIs; AWS; ML(classification); Python
 
 ### Table of Contents
